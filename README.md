@@ -1,4 +1,6 @@
-# Google Docs Dark Mode for Safari
+## Preview
+
+![Google Docs Dark Mode for Safari](preview.png)# Google Docs Dark Mode for Safari
 
 A lightweight userscript that provides a comprehensive dark mode experience for Google Docs on Safari for macOS.
 
@@ -26,6 +28,10 @@ This userscript is primarily designed and tested for:
 - Userscripts for Safari
 
 Compatibility with other browsers or userscript managers is not guaranteed.
+
+## Quick Install
+
+[**View / Install Userscript**](https://raw.githubusercontent.com/farazzmaldi/Google-Docs-Dark-Mode-Safari/main/google-docs-dark-mode.user.js)
 
 ## Installation
 
